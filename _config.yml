@@ -1,0 +1,23 @@
+name: Playing
+favicon: null
+layout_spectrum: 0.8287349420133978
+typography_spectrum: 0.6908216932788491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.15661101462319493
+  lightness: 0.9253808169160038
+  saturation: 0.8691468853503466
+  rhythmicContrast: 0.896430577384308
+purpose: []
